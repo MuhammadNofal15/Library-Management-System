@@ -3,7 +3,7 @@ Library Management System is a Java-based application that manages a collection 
 The system displays book information (such as title, author, category, published year, and ISBN) in a dynamic table and provides a set of operations to manage and analyze the book records.
 
 # How to Run
-- Load the initial book records into the system at startup.
+- Load the initial book records from the file `books.txt` into the system at startup.
 - After loading, a table will display all the books with many operations that can be performed on these book records.
 
 # Features
