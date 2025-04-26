@@ -1,0 +1,46 @@
+BookID, Title, Author, Category, Published Year, ISBN
+001, Java Programming Basics, John Doe, Java, 2020, 123-4567890123
+002, Advanced Security Concepts, Jane Smith, Security, 2021, 987-6543210987
+003, Learn Java in 24 Hours, Alice Johnson, Java, 2019, 345-6789012345
+004, Ethical Hacking for All, Bob Brown, Security, 2022, 876-5432109876
+005, Introduction to Python, Clara White, Python, 2018, 234-5678901234
+006, Cybersecurity Fundamentals, Mark Green, Security, 2020, 564-1239876543
+007, Deep Dive into C++, Steve Harris, C++, 2019, 678-1234598765
+008, Mastering Web Development, Rachel Adams, Web Dev, 2021, 341-9876543210
+009, Data Structures and Algorithms, Michael Brown, Computer Science, 2021, 543-2109876543
+010, Ethical Hacking: The Complete Guide, Susan Taylor, Security, 2021, 876-1122334455
+011, JavaScript from Scratch, William Clark, JavaScript, 2020, 234-5678908765
+012, Exploring AI with Python, Oliver Harris, AI, 2022, 345-6789012346
+013, Linux Command Line Basics, George Scott, Linux, 2018, 654-3219876543
+014, Modern Web Design, Julia White, Web Dev, 2020, 112-3456789876
+015, Android Development Essentials, Sarah Lopez, Android, 2021, 789-6541239876
+016, Introduction to Machine Learning, Liam Johnson, AI, 2022, 321-9876543210
+017, Cloud Computing with AWS, Anna Walker, Cloud, 2019, 432-1238901234
+018, Database Management Systems, Ethan Parker, Database, 2021, 678-4321098765
+019, Blockchain Basics, Charlotte King, Blockchain, 2020, 543-2106549876
+020, Python for Data Science, Benjamin Scott, Data Science, 2021, 987-6543212345
+021, Mastering SQL, Megan Turner, Database, 2020, 234-7896543210
+022, ReactJS Essentials, Andrew Davis, Web Dev, 2022, 567-9876542345
+023, Artificial Intelligence Demystified, Victoria Adams, AI, 2021, 876-5431098765
+024, Practical Networking, James Allen, Networking, 2020, 234-4567891234
+025, Introduction to JavaScript, Amelia Moore, JavaScript, 2019, 432-1234509876
+026, Hacking and Penetration Testing, David Wilson, Security, 2022, 567-8901234567
+027, Building Responsive Websites, Olivia Lewis, Web Dev, 2021, 345-6789098765
+028, Understanding Cyber Attacks, Noah Harris, Security, 2021, 987-5432109877
+029, Data Science with R, Clara Roberts, Data Science, 2019, 567-2347896543
+030, Full Stack Development with Node.js, Jack Taylor, Web Dev, 2020, 876-9876541234
+031, Big Data Analytics with Python, Linda Davis, Data Science, 2022, 123-7896542345
+032, Introduction to Swift, Jake Martin, Swift, 2021, 432-5678908765
+033, Cloud Security, Sophia Clark, Security, 2020, 234-6789012346
+034, Web Scraping with Python, Samuel Green, Python, 2021, 876-5432109878
+035, Mastering Docker, Nathaniel Wright, DevOps, 2021, 567-3456789012
+036, Introduction to MATLAB, Sophia Harris, MATLAB, 2022, 123-9876543211
+037, Programming with Ruby, Daniel Carter, Ruby, 2020, 765-4321098765
+038, Full Stack Web Development, Rachel White, Web Dev, 2022, 654-3210987654
+039, C# Programming for Beginners, Emily Evans, C#, 2020, 876-9876543211
+040, Advanced Python Programming, Joseph Martin, Python, 2021, 432-6789012347
+041, Network Security Fundamentals, David Wilson, Security, 2022, 567-8901234568
+042, Ethical Hacking: Advanced Techniques, David Wilson, Security, 2022, 567-8901234569
+043, Introduction to Wireless Networks, David Wilson, Security, 2022, 567-8901234570
+044, Secure Programming Practices, David Wilson, Security, 2022, 567-8901234571
+045, Advanced Cryptography, David Wilson, Security, 2022, 567-8901234572
